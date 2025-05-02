@@ -6,7 +6,7 @@ body{
     font-family: Georgia, Cambria, "Times New Roman", serif;
     font-size: 100%;
     background-color: whitesmoke;
-    background-image: url(../images/background-pattern.png);
+    background-image: url(background-pattern.png);
 
 }
 
@@ -39,17 +39,17 @@ a:link{
 }
 
 a[href^="mailto"]{
-    background: url(../images/email.png) no-repeat 0 3px;
+    background: url(email.png) no-repeat 0 3px;
     padding-left: 1em;
 }
 
 a[href^="tel"]{
-    background: url(../images/call.png) no-repeat 0 3px;
+    background: url(call.png) no-repeat 0 3px;
     padding-left: 1em;
 }
 
 header{
-    background-image: url(../images/header-background.png);
+    background-image: url(header-background.png);
     background-repeat: repeat;
 }
 
@@ -100,7 +100,7 @@ section{
 section h3{
     color: mintcream;
     padding: 0.5em;
-    background-image: url(../images/header-background.png);
+    background-image: url(header-background.png);
     background-repeat: repeat;
 }
 
@@ -133,12 +133,12 @@ div.act a{
 }
 
 .Edit{
-    background: url(../images/edit.png) no-repeat;
+    background: url(edit.png) no-repeat;
     background-position: 0.250em 0.150em;
 }
 
 .Flag{
-    background: url(../images/flag.png) no-repeat;
+    background: url(flag.png) no-repeat;
     background-position: 0.250em 0.150em;
 }
 
